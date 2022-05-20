@@ -2,5 +2,11 @@ id,source,layer,name,housenumber,street,postcode,lat,lon,addendum_json_pelias
 1,pelias,example_layer,Example Location,,,,5,5
 2,pelias,address,123 Main St,123,Main St,90210,6,7
 3,pelias,invalid,123 Main St,,,,,
-4,peliaas, baloola,7 baloola,7, baloola, 0116,38,18.5
+4,pelias, baloola,5F,,,,,
+5,pelias, baloola,4F,,,,,
+6,pelias, baloola,3F,,,,,
+7,pelias, baloola,2F,,,,,
+8,pelias, baloola,1F,,,,,
+9,pelias, baloola,GF,,,,,
+9,pelias, baloola,RF,,,,,
 5,pelias,with_custom_data,501 Broadway,,,,10,11,"{ ""your_custom_data"":""goes here"", ""year"": 2019, ""nested"": { ""supported"": true } }"
